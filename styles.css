@@ -1,0 +1,11 @@
+/* Add your custom tweaks here. */
+
+.inset-right {
+  float: right;
+  max-width: 220px;
+  margin: 0 0 1em 1.5em;
+}
+
+.oval {
+  border-radius: 50%;
+}

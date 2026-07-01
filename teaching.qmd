@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+---
+
+For the past [12 years](files/cv.pdf), I have taught ecology and evolution courses in Brazil and the United States as a Teaching assistant in multiple different courses related to Ecology and Evolutionary biology. I am compiling some of the resources I've produced here:
+
+# Evolved: open software for teaching evolutionary biology
+
+[`evolved`](https://mjanuario.github.io/evolved/), an open-source R package for undergraduate and graduate teaching in evolutionary biology. It provides tutorials with clear learning objectives focused on data visualization, hypothesis testing, and simulation-based reasoning using real datasets, enabling students to explore both microevolutionary processes (e.g., selection and drift) and macroevolutionary patterns from molecular and fossil data. The software stable version is available on [CRAN](https://cloud.r-project.org/web/packages/evolved/index.html), the development version can be found in my [github](https://github.com/mjanuario/evolved/). It was published in the [Journal of Open Source Education](https://doi.org/10.21105/jose.00300) and received the [2026 T. H. Huxley Award for education resources from the Society for the Study of Evolution](https://www.evolutionsociety.org/news/display/2026/4/27/2026-t-h-huxley-award-mr-matheus-januario-lopes-de-sousa/)
+
+# Soon
+
+I will soon compile other resources I've made but there not yet made public.

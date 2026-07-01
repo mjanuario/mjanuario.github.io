@@ -1,0 +1,30 @@
+---
+title: "Research Interests"
+---
+
+I am a general ecologist and evolutionary biologists, but my current research focus can be put into these broad topics below:
+
+# The biology of extinction
+
+Why do some species survive environmental change while others go extinct? To tackle this central question at the interface between ecology and evolution, I am weaving together diverse strands of evidence—fossils, global wildlife surveys, and the tree of life—using cutting-edge tools from ecology, evolution, and data science. 
+
+This is mostly conducted at the [Swain Lab](https://www.anshumanswain.com/home), as part of my Postdoctoral Fellowship at [U. of Michigan's the Institute for Global Change Biology](https://seas.umich.edu/globalchangebiology)
+
+You can watch me presenting the preliminary results of this project [here](https://youtu.be/GSZz7fqlxn4?t=3624).
+
+# Speciation and the origins of biodiversity
+
+How and why did life become so diverse? My research on the gap between micro- and macroevolution, is aimed at  investigating whether processes within populations give rise to the structure of biodiversity across the broadest scales of time and space.
+
+My work related to this topic was recently published on [The American Naturalist](https://www.journals.uchicago.edu/doi/full/10.1086/734457) and in [Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70021).
+
+You can watch me presenting the preliminary results of a new project I am conducting on speciation, as part of the recent symposium "Cross-Disciplinary Approaches for Understanding Budding Speciation" that I co-organized with Bruno do Rosario Petrucci:  [link for the whole symposium here](https://www.youtube.com/watch?v=AUJ-AkoVJBE&t=1s).
+
+# The evolution of complexity
+
+My work on this topic has not yet been published, but [my recent book review on MIT Press _Evolvability_ book](https://academic.oup.com/evolut/article-abstract/78/8/1517/7676513) provides a glimpse into how I approach these questions.
+
+# New methods and software in Ecology and Evolution
+
+[`paleobuddy`](https://github.com/brpetrucci/paleobuddy/tree/master) is an R ecosystem to research budding speciation which I co-developed with Bruno do Rosario Petrucci. We are growing this ecosystems slowly but steadily, so reach out if you have any ideas for collaboration.
+

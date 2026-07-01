@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Matheus Januario"
+  site-url: "https://mjanuario.github.io"
+  favicon: images/profile.jpg
+  navbar:
+    logo: images/profile.jpg
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    left: "© 2026 Matheus Januario • [januarioml.eco@gmail.com](mailto:januarioml.eco@gmail.com)"
+    right:
+      - text: ORCID
+        href: https://orcid.org/0000-0002-6480-7095
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=yRty-vEAAAAJ&hl=en&oi=ao
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

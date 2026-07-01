@@ -1,0 +1,73 @@
+---
+title: "Peer-reviewed publications"
+bibliography: publications.bib
+nocite: |
+  @*
+---
+
+<style>
+#refs .csl-entry {
+  margin-bottom: 1.3em;
+  padding-left: 2.2em;
+  position: relative;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const refs = document.getElementById("refs");
+  if (!refs) return;
+
+  // 1. Sort entries by year, most recent first
+  const entries = Array.from(refs.children);
+  entries.sort((a, b) => {
+    const yearA = parseInt((a.textContent.match(/\b(19|20)\d{2}\b/) || [0])[0]);
+    const yearB = parseInt((b.textContent.match(/\b(19|20)\d{2}\b/) || [0])[0]);
+    return yearB - yearA;
+  });
+  entries.forEach(e => refs.appendChild(e));
+
+  // 2. Collapse spelled-out first names to initials (leave surnames untouched)
+  //    Add any new co-author first names here as they show up.
+  const firstNames = [
+    "Matheus", "Jennifer", "Andressa", "Daniel", "Rodrigo", "Pedro",
+    "Felipe", "Tamilie", "Fons", "Christian", "Peter", "Thiago",
+    "Malin", "Renato", "Bruno", "James", "Jason", "Tiago"
+  ];
+  entries.forEach(e => {
+    firstNames.forEach(name => {
+      const re = new RegExp("\\b" + name + "\\b", "g");
+      e.innerHTML = e.innerHTML.replace(re, name.charAt(0) + ".");
+    });
+  });
+
+  // 3. Number them so the bottom (oldest) entry is 1,
+  //    counting up as you go toward the top (newest)
+  const total = entries.length;
+  entries.forEach((e, i) => {
+    const num = total - i;
+    const label = document.createElement("span");
+    label.textContent = num + ". ";
+    label.style.position = "absolute";
+    label.style.left = "0";
+    label.style.fontWeight = "bold";
+    e.style.position = "relative";
+    e.insertBefore(label, e.firstChild);
+  });
+
+  // 4. Bold your last name wherever it appears
+  const pattern = /\bJanuario\b/g;
+  const walker = document.createTreeWalker(refs, NodeFilter.SHOW_TEXT);
+  const nodes = [];
+  let node;
+  while (node = walker.nextNode()) nodes.push(node);
+  nodes.forEach(n => {
+    if (pattern.test(n.nodeValue)) {
+      pattern.lastIndex = 0;
+      const span = document.createElement("span");
+      span.innerHTML = n.nodeValue.replace(pattern, m => `<strong>${m}</strong>`);
+      n.parentNode.replaceChild(span, n);
+    }
+  });
+});
+</script>

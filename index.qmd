@@ -1,0 +1,27 @@
+---
+title: "Home"
+---
+
+![](images/profile.jpg){.inset-right .oval}
+
+# Matheus Januario
+
+Hello and welcome to my website. I am a eco-evolutionary biologist studying biodiversity dynamics and the evolution of complexity. In order to do that, I weave together diverse strands of evidence—[fossils](https://doi.org/10.1111/evo.14177), [global wildlife surveys](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70021), and the [tree of life](https://doi.org/10.1086/734457)—using cutting-edge tools from ecology, evolution, and data science.
+
+I am currently a **Postdoctoral Fellow** at the Institute for Global Change Biology, and affiliated to the _Department of Ecology and Evolutionary Biology_ and the _Museum of Paleontology_ of the University of Michigan.
+
+[CV](files/cv.pdf) · [ORCID](https://orcid.org/0000-0002-6480-7095) · [Google Scholar](https://scholar.google.com/citations?user=yRty-vEAAAAJ&hl=en&oi=ao) · [Research Gate](https://www.researchgate.net/profile/Matheus-Januario-2)
+
+## News
+
+- [May 2026] **Recent recordings** — Watch my talk at the [Mayr Simposium](https://youtu.be/GSZz7fqlxn4?t=3624) in May 2026.
+- [May 2026]**Recent recordings** — Watch my talk at the [Budding speciation Simposium](https://youtu.be/AUJ-AkoVJBE?t=1) in May 2026.
+- [Apr 2026]**Recent awards** — I received the 2026 [T. H. Huxley Award for evolution education resources from the society for the Study for the Study of Evolution](https://www.evolutionsociety.org/news/display/2026/4/27/2026-t-h-huxley-award-mr-matheus-januario-lopes-de-sousa/)
+- [Feb 2026] New paper published in the Journal of Open Source Education: *evolved: open software for teaching evolutionary biology through virtual inquiries*. <https://jose.theoj.org/papers/10.21105/jose.00300.pdf>
+
+## Highlights
+
+Check my paper on [metapopulation-level persistence and the bridge between micro- and macroevolution, out in Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70021)
+
+Check my paper on [The evolution of the intensity of sexual selection, out in The American Naturalist](https://www.journals.uchicago.edu/doi/full/10.1086/734457)
+

@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Content coming soon — this is just a placeholder."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Peer-reviewed publications",
+    "section": "",
+    "text": "References\n\nCarmo, Rodrigo F. R. do, Pedro H. A. Sena, Felipe P. L. de Melo, Matheus Januario, Tamilie Carvalho, Fons van der Plas, Christian Wirth, Peter B. Reich, and Thiago Gonçalves‐Souza. 2026. “Functional Diversity Drives Leaf Decomposition Across Rainfall–Disturbance Gradients, but Phylogenetic Effects Vary.” Ecosphere 17 (6). https://doi.org/10.1002/ecs2.70653.\n\n\nJanuario, Matheus. 2024. “&lt;I&gt;evolvability&lt;/i&gt; Maps an Adaptable Research Paradigm.” Edited by James Mallet and Jason Wolf. Evolution 78 (8): 1517–20. https://doi.org/10.1093/evolut/qpae078.\n\n\nJanuario, Matheus, Jennifer P. Auler, Andressa L. Viol, and Daniel L. Rabosky. 2026. “Evolved: Open Software for Teaching Evolutionary Biology Through Virtual Inquiries.” Journal of Open Source Education 9 (96): 300. https://doi.org/10.21105/jose.00300.\n\n\nJanuario, Matheus, Renato C. Macedo-Rego, and Daniel L. Rabosky. 2025. “Evolutionary Lability of Sexual Selection and Its Implications for Speciation and Macroevolution.” The American Naturalist 205 (4): 388–412. https://doi.org/10.1086/734457.\n\n\nJanuario, Matheus, Malin L. Pinsky, and Daniel L. Rabosky. 2024. “The Metapopulation Bridge to Macroevolutionary Speciation Rates: A Conceptual Framework and Empirical Test.” Ecology Letters 28 (1). https://doi.org/10.1111/ele.70021.\n\n\nJanuario, Matheus, and Tiago B. Quental. 2021. “Re‐evaluation of the ‘Law of Constant Extinction’ for Ruminants at Different Taxonomical Scales.” Evolution 75 (3): 656–71. https://doi.org/10.1111/evo.14177.\n\n\nRosario Petrucci, Bruno do, Matheus Januario, and Tiago Quental. 2022. “Paleobuddy: An r Package for Flexible Simulations of Diversification and Fossil Sampling.” Methods in Ecology and Evolution 13 (12): 2692–98. https://doi.org/10.1111/2041-210x.13996."
+  },
+  {
+    "objectID": "README_MIGRATION.html",
+    "href": "README_MIGRATION.html",
+    "title": "What’s in this bundle",
+    "section": "",
+    "text": "What’s in this bundle\nReconstructed from your old cv.html / contact.html / index.html (which were themselves Quarto output, so this is a faithful port):\n\n_quarto.yml – site/navbar/footer config\nindex.qmd – Home page\ncv.qmd – CV page\ncontact.qmd – Contact page\nresearch.qmd, publications.qmd, teaching.qmd, supervisions.qmd – placeholders (your navbar links to these, but you didn’t upload the old HTML for them, so fill these in or send them to me)\nstyles.css – minimal starter (your old custom styles.css wasn’t uploaded, so re-add any custom CSS rules here)\nimages/, files/ – empty folders, see below"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "I am a general ecologist and evolutionary biologists, but my current research focus can be put into these broad topics below:\n\nThe biology of extinction\nWhy do some species survive environmental change while others go extinct? To tackle this central question at the interface between ecology and evolution, I am weaving together diverse strands of evidence—fossils, global wildlife surveys, and the tree of life—using cutting-edge tools from ecology, evolution, and data science.\nThis is mostly conducted at the Swain Lab, as part of my Postdoctoral Fellowship at U. of Michigan’s the Institute for Global Change Biology\nYou can watch me presenting the preliminary results of this project here.\n\n\nSpeciation and the origins of biodiversity\nHow and why did life become so diverse? My research on the gap between micro- and macroevolution, is aimed at investigating whether processes within populations give rise to the structure of biodiversity across the broadest scales of time and space.\nMy work related to this topic was recently published on The American Naturalist and in Ecology Letters.\nYou can watch me presenting the preliminary results of a new project I am conducting on speciation, as part of the recent symposium “Cross-Disciplinary Approaches for Understanding Budding Speciation” that I co-organized with Bruno do Rosario Petrucci: link for the whole symposium here.\n\n\nThe evolution of complexity\nMy work on this topic has not yet been published, but my recent book review on MIT Press Evolvability book provides a glimpse into how I approach these questions.\n\n\nNew methods and software in Ecology and Evolution\npaleobuddy is an R ecosystem to research budding speciation which I co-developed with Bruno do Rosario Petrucci. We are growing this ecosystems slowly but steadily, so reach out if you have any ideas for collaboration."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "For the past 12 years, I have taught ecology and evolution courses in Brazil and the United States as a Teaching assistant in multiple different courses related to Ecology and Evolutionary biology. I am compiling some of the resources I’ve produced here:\n\nEvolved: open software for teaching evolutionary biology\nevolved, an open-source R package for undergraduate and graduate teaching in evolutionary biology. It provides tutorials with clear learning objectives focused on data visualization, hypothesis testing, and simulation-based reasoning using real datasets, enabling students to explore both microevolutionary processes (e.g., selection and drift) and macroevolutionary patterns from molecular and fossil data. The software stable version is available on CRAN, the development version can be found in my github. It was published in the Journal of Open Source Education and received the 2026 T. H. Huxley Award for education resources from the Society for the Study of Evolution\n\n\nSoon\nI will soon compile other resources I’ve made but there not yet made public."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: januarioml.eco@gmail.com\n\nOffice: Biological Sciences Building. 1105 N University Ave, Ann Arbor, MI 48109, USA."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Home",
+    "section": "News",
+    "text": "News\n\n[May 2026] Recent recordings — Watch my talk at the Mayr Simposium in May 2026.\n[May 2026]Recent recordings — Watch my talk at the Budding speciation Simposium in May 2026.\n[Apr 2026]Recent awards — I received the 2026 T. H. Huxley Award for evolution education resources from the society for the Study for the Study of Evolution\n[Feb 2026] New paper published in the Journal of Open Source Education: evolved: open software for teaching evolutionary biology through virtual inquiries. https://jose.theoj.org/papers/10.21105/jose.00300.pdf"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "Highlights",
+    "text": "Highlights\nCheck my paper on metapopulation-level persistence and the bridge between micro- and macroevolution, out in Ecology Letters\nCheck my paper on The evolution of the intensity of sexual selection, out in The American Naturalist"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my full CV here\nLast updated: 2026-July"
+  }
+]
