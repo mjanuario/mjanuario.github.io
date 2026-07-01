@@ -5,6 +5,8 @@ nocite: |
   @*
 ---
 
+For requests please contact me or send me a message on [Research Gate](https://www.researchgate.net/profile/Matheus-Januario-2)
+
 <style>
 #refs .csl-entry {
   margin-bottom: 1.3em;
