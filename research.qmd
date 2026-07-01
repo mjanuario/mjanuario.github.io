@@ -8,7 +8,7 @@ I am a general ecologist and evolutionary biologist whose research spans broad q
 
 ![](images/pers_in_space.png){.inset-center}
 
-Why do some species survive environmental change while others go extinct? To tackle this central question at the interface between ecology and evolution, I am data science tools to weave together diverse strands of evidence—fossils, global wildlife surveys, and the tree of life. This is currently being conducted at the [Swain Lab](https://www.anshumanswain.com/home), as part of my Postdoctoral Fellowship at [U. of Michigan's the Institute for Global Change Biology](https://seas.umich.edu/globalchangebiology)
+Why do some species survive environmental change while others go extinct? To tackle this central question at the interface between ecology and evolution, I use data science tools to weave together diverse strands of evidence—fossils, global wildlife surveys, and the tree of life. This is currently being conducted at the [Swain Lab](https://www.anshumanswain.com/home), as part of my Postdoctoral Fellowship at [U. of Michigan's the Institute for Global Change Biology](https://seas.umich.edu/globalchangebiology)
 
 You can watch me presenting the preliminary results of this project [here](https://youtu.be/GSZz7fqlxn4?t=3624).
 
@@ -16,7 +16,7 @@ You can watch me presenting the preliminary results of this project [here](https
 
 ![](images/spec_rate_limstep.png){.inset-center}
 
-How and why did life become so diverse? I address this topic by exploring the gap between micro- and macroevolution, and investigating whether processes within populations give rise to the structure of biodiversity across the broadest scales of time and space.
+How and why did life become so diverse? I address this topic by exploring the gap between micro- and macroevolution and investigating whether processes within populations give rise to the structure of biodiversity across the broadest scales of time and space.
 
 My work related to this topic was recently published on [The American Naturalist](https://www.journals.uchicago.edu/doi/full/10.1086/734457) and in [Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70021).
 

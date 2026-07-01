@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-For the past [12 years](files/cv.pdf), I have taught ecology and evolution courses in Brazil and the United States as a Teaching assistant in multiple different courses related to Ecology and Evolutionary biology. I am compiling some of the resources I've produced here:
+For the past [12 years](files/cv.pdf), I have taught ecology and evolution courses in Brazil and the United States as a teaching assistant in multiple different courses related to Ecology and Evolutionary biology. I also presented a few workshops in different places that generated a fair amount of education material. Here I am slowly compiling some of the resources I've produced:
 
 # Evolved: open software for teaching evolutionary biology
 
