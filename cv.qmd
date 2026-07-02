@@ -6,5 +6,156 @@ title: "CV"
 
 You can **download my full CV** [here](files/cv.pdf)
 
-Below, I list the major components of my CV
+# Education
+
+2021 – 2026: Ph.D. in Ecology and Evolutionary biology, University of Michigan, USA\
+2012 – 2019: Teaching in biology, University of Sao Paulo, Brazil\
+2017 – 2019: M.Sc. in Ecology, University of Sao Paulo, Brazil\
+2012 – 2016: B.Sc. in Biological Sciences, University of Sao Paulo, Brazil\
+
+# Appointments
+May 2026 - Current: Postdoctoral Fellow, Institute for Global Change Biology, U. of Michigan.\
+
+# [Publications](https://mjanuario.github.io/publications.html)
+
+# Published Book Chapters
+1.	Menezes-e-Vasconcelos, K., Chaves, B. E., **Januario, M.** (2024). Adding shape and color to publications: how to explore photography in plant anatomy and morphology (in portuguese). In: dos Santos , N. H., Santos, I. V. C., dos Santos Júnior, J. L. Falcão, J. G., Martins, M. L., Wu, R. T. A., Furlan, C. M. (Organizers): XIII Winter Course in Botany, 2024. ISBN: 978-65-88234-18-1
+
+# Manuscripts in advanced stage of preparation
+
+1.	**Januario, M.**, Rabosky D.L. Severe impact of taxon murk on macroevolutionary inference: extinction dynamics in whales revisited.
+2.	**Januario, M.**, Rabosky D.L. Why are we still estimating extinction from molecular phylogenies?
+
+# Funded grants
+
+2023: Hinsdale & Walker Scholarship, EEB dept., Univ. of Michigan\
+2022: Grad. Res. Excel. Grant R.C. Lewontin E. Award, Soc. Stud. of Evol.\
+2022: Ichthyology Grad. Std. Sup, Rackham Grad. School, Univ. of Michigan\
+2022: Grad. Std. Research Grant, Rackham Grad. School, Univ. of Michigan\
+
+# Fellowships and prizes
+
+2026: Tinkle Scholarship Award, University of Michigan Museum of Zoology  
+2025–2026: Rackham Predoctoral Fellowship, Rackham Graduate School, University of Michigan\
+2024: Departmental fellowship, Department of Ecology and Evolutionary Biology, University of Michigan\
+2024: Research Assistant fellowship, Department of Ecology and Evolutionary Biology, University of Michigan\
+2022: Departmental fellowship, Department of Ecology and Evolutionary Biology, University of Michigan\
+2019: Graduate technical work fellowship, The Sao Paulo Research Foundation (FAPESP), Brazil\
+2019: Undergraduate teaching fellowship, University of Sao Paulo, Brazil\
+2018: Graduate teaching fellowship, University of Sao Paulo, Brazil\
+2017–2018: Graduate research fellowship, Nat'l Council for Sci. & Tech. Development (CNPq), Brazil\
+2016: Undergraduate research fellowship, The Sao Paulo Research Foundation (FAPESP), Brazil\
+
+# Academic recognition:
+
+2026: Finalist of the Ernst Mayr Award, Society of Systematic Biologists \
+2026: Outstanding Grad Student Publication Award, Department of Ecology and Evolutionary Biology, University of Michigan \
+2026: Tinkle Award, University of Michigan Museum of Zoology\
+2026: T. H. Huxley Award, Society for the Study of Evolution\
+2025: Rackham Predoctoral Fellowship, Rackham Graduate School, University of Michigan\
+2023: Nominated to the 2022 Outstanding Graduate Student Instructor Award, Department of Ecology and Evolutionary Biology, University of Michigan\
+2022: R.C. Lewontin Early Award, Society for the Study of Evolution\
+2019: Best master’s dissertation award - Graduate program in Ecology, University of Sao Paulo\
+2016: Ranked 1st in the Univ. of Sao Paulo M.Sc. in Ecology entrance exam among over 35 participants\
+2016: Best academic poster award - 19th Conference of undergraduate research at the University of Sao Paulo, Brazil \
+
+# Museological work
+
+2023: Graduate student curatorial assistant, Univ. of Michigan Museum of Zoology, Ann Arbor (MI), USA\
+  _Supported the large-scale integration and curation of >40,000 herpetological specimens, processing and organizing material from intake to standardized storage. Digitized and harmonized multiple legacy datasets with full traceability, enhanced records through georeferencing and archival integration, and organized associated field materials to improve research accessibility._
+  
+# Open source Software
+
+[evolved](https://mjanuario.github.io/evolved) (R; author, creator, maintainer)
+[paleobuddy](https://github.com/brpetrucci/paleobuddy/tree/master) (R; author; maintainer)
+
+# Invited speaker
+
+2026: Invited Panelist on Education. Eduardo Gomes High School, Sao Caetano do Sul (SP), Brazil\
+2026: Invited Research Seminar, Dept. of Ecology, University of Sao Paulo, Brazil\
+2024: Grad. Research Excellence Grants Seminar Series of the Society for the Study of Evolution, Online\
+2024: Invited Research Seminar, Dept. of Ecology and Evolutionary Biology, U. of Michigan (MI), USA\
+2018: University of Sao Paulo‘s Wildlife Studies Group, University of Sao Paulo (SP), Brazil\
+
+# Symposia
+
+## Organizer & Speaker
+"Cross-Disciplinary Approaches for Understanding Budding Speciation" (Evolution meeting 2026) [Recording](https://youtu.be/AUJ-AkoVJBE?t=1) – co-organized with Bruno do Rosario Petrucci (Iowa State University).
+
+## Speaker
+2026: Society of Systematic Biologists Ernst Mayr Award Symposium(online) [Recording](https://youtu.be/GSZz7fqlxn4?t=3624)\
+2024: Symposium: “What we can and cannot know through current and upcoming phylogenetic comparative methods”, 3rd Joint Congress of Evolutionary Biology, Montréal (QC), Canada\
+
+# Other professional experience
+2019 – 2020: Data scientist & code developer, University of Sao Paulo, Sao Paulo (SP), Brazil
+Created and archived code & analytical pipelines still in use in the laboratory (as of 2026)
+
+# Service
+
+## International
+
+### Peer Review
+Evolutionary Journal of the Linnean Society; Journal of Biogeography; Journal of Open Source Education; Methods in Ecology and Evolution; Proceedings of the Royal Society B Biological Sciences; Science Advances; Systematic Biology
+
+### Organizer of Research synthesis working group on budding speciation
+Co-organized with Bruno do Rosario Petrucci (Iowa State University).
+This group is supported by the Society for the Study of Evolution (SSE) and is designed to serve as a launchpad for novel ideas, new syntheses, and ongoing collaborations. The group involves researchers from USA, Brazil, Canada, Germany, and Australia.
+
+### Conference mentor for early-career researchers
+2026 Mentored 10+ PhD students during the SSE Postdoc Fellowship Networking event at the 2026 evolution meeting.
+2026 Mentored PhD student Gustavo Martins as part of Evolution’s Bilingual Mentoring Program.
+2024 STRATA (Supporting Tomorrow’s Researchers and Today’s Advocates) mentor during the North American Paleontological Convention.
+
+## Departmental
+
+### Student representative in department committees
+2025–2023 Peer-to-peer mentoring of 4 younger grad students ( “Big/Little Sib program”)
+2025–2026 Social Hour (“BioBev”) coordinator
+2024 Admissions committee
+2022–2023 Social & Retreat Committee
+2015-2016 Student Representative in the Departmental Faculty Meeting (University of Sao Paulo)
+
+### Organizer of academic events for the Univ. of Michigan’s Dept. of Ecology & Evol. Biology
+2-working day visit from prof. Kjetil Lysne Voje, from the Natural History Museum of the University of Oslo (Norway). Visit included advanced group discussion, a public roundtable, a seminar to the department, and individual meetings with faculty, students, and other researchers from the university. Organization included scheduling, flights, lodging and meals, all done by Matheus.
+
+Round table: Is macroevolution more than “microevolution writ large?” (~50 attendants, 90 minutes), Featuring profs Kjetil L. Voje (U. of Oslo, Norway), L. Lacey Knowles (EEB, U. of Michigan), Lucas N. Weaver (EARTH, U. of Michigan), and Daniel L. Rabosky (EEB, U. of Michigan). Matheus organized, selected, and clarified questions from the dept. before the event, and mediated the live discussion.
+
+# Community outreach 
+
+## United States
+
+### ID day at the Museum of Natural History of the University of Michigan (2023/2024/2025) / Science Communicator
+Single day activity, Ann Arbor (MI) - USA
+Engaged the public by identifying species, showcasing live animals, 3D models, museum specimens, and other biologic material. Participated as member of the division of Reptiles & Amphibians at the University of Michigan’s Museum of Zoology.
+
+### BIO 173 visit to division of Reptiles & Amphibians at the U. of Michigan’s Museum of Zoology (2024) / Museum Educator
+Single day activity, Ann Arbor (MI) - USA
+Toured tens of students from “Introduction to biology” (BIO 173) through the Reptiles & Amphibians division of the University of Michigan’s Museum of Zoology—promoting hands-on scientific observation and student engagement.
+
+### University of Michigan Biological Station’s 2024 BioBlitz / Associate organismal group expert
+Single day activity, Pellston (MI) - USA
+Participated in an intensive biodiversity survey documenting species within the biological station, integrating fieldwork, education, and public outreach. Collaborated with students, researchers, and community members to promote biodiversity awareness and hands-on scientific engagement.
+
+## Brazil
+
+### EcoEscola 2019 (Eco-School) / Lecturer, Pedagogical leader, and class developer
+March 2018 - August 2019, Sao Paulo - Brazil
+I coordinated an Ecology course at the University of Sao Paulo, training graduate students in active learning strategies to teach Ecology to recent biology graduates. I also designed pedagogical materials and delivered three lectures: “Patterns and Processes in Ecology,” “Interaction Biology,” and “Evolutionary Ecology and Biogeography.”
+
+### Estacao Biologia (Biology camp) / Instructor and class developer
+March 2012 - November 2013, Sao Paulo - Brazil
+I contributed to a non-formal education project teaching Biology in underprivileged schools using active learning. I developed lasting activities, including one on micro and macroevolution. I also participated in "Bio na Rua" (Biology on the Streets), an annual community outreach event in Sao Paulo's underserved areas.
+
+# Media coverage
+[24.IV.2026 - The U-M Museum of Zoology has named Natasha Stepanova (PhD ’26) and Matheus Januario (PhD ’26) as the recipients of the 2025 Donald W. Tinkle Scholarship Award](https://lsa.umich.edu/ummz/news-events/all-news/search-news/the-2026-donald-w--tinkle-award-winners.html)
+[16.IX.2025 - Till Selection Do Us Part? Testing Sexual Selection’s Role in Speciation](https://www.amnat.org/an/newpapers/April-2025-Januario.html)
+[16.X.2023 - Hiss-toric first: U-M museum’s 70,000 snake specimens form world’s largest research collection](https://news.umich.edu/hiss-toric-first-u-m-museums-70000-snake-specimens-form-worlds-largest-research-collection/)
+[13.XI.2023 - UMich now has the largest collection of snake specimens in the world](https://www.michigandaily.com/research/umich-now-has-the-largest-collection-of-snake-specimens-in-the-world/)
+
+# Languages
+Brazilian Portuguese: native
+English, R, Python: fluent
+
+
+
 

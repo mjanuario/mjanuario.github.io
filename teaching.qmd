@@ -16,12 +16,6 @@ Please reach out if you would like to use evolved. Some of the investigation pro
 
 I will soon compile other resources I've made but there not yet made public.
 
-# Past teaching experience as worshop provider
-
-**2024**  Comparative Biology and Functional Morphology in the 21st Century _Gans Foundation Student Workshop for the Society for the Study of Amphibians and Reptiles Meeting_ (Ann Arbor MI USA, 3-day workshop)
-
-**2024**  Seeing Through Trees – Introduction to Phylogenetic Comparative Methods in R _Institute for Global Change Biology stats sessions_ (Ann Arbor MI USA, 2hr workshop)
-
 # Past teaching experience as teaching assistant
 
 ## University of Michigan
@@ -63,4 +57,8 @@ Mentors are all Professors unless otherwise noted.
 
 **2014** _Evolution_ (1 semester, mentored by Diogo Meyer & Gabriel Marroig)
 
+# Past teaching experience as worshop provider
 
+**2024**  Comparative Biology and Functional Morphology in the 21st Century _Gans Foundation Student Workshop for the Society for the Study of Amphibians and Reptiles Meeting_ (Ann Arbor MI USA, 3-day workshop)
+
+**2024**  Seeing Through Trees – Introduction to Phylogenetic Comparative Methods in R _Institute for Global Change Biology stats sessions_ (Ann Arbor MI USA, 2hr workshop)
