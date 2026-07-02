@@ -5,7 +5,7 @@ nocite: |
   @*
 ---
 
-For requests please contact me or send me a message on [Research Gate](https://www.researchgate.net/profile/Matheus-Januario-2)
+For requests please contact me on [januarioml.eco@gmail.com](mailto:januarioml.eco@gmail.com) or send me a message on [Research Gate](https://www.researchgate.net/profile/Matheus-Januario-2)
 
 <style>
 #refs .csl-entry {
