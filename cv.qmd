@@ -16,7 +16,7 @@ You can **download my full CV** [here](files/cv.pdf)
 # Appointments
 May 2026 - Current: Postdoctoral Fellow, Institute for Global Change Biology, U. of Michigan.\
 
-# [Publications](https://mjanuario.github.io/publications.html)
+# [Peer reviewed publications](https://mjanuario.github.io/publications.html)
 
 # Published Book Chapters
 1.	Menezes-e-Vasconcelos, K., Chaves, B. E., **Januario, M.** (2024). Adding shape and color to publications: how to explore photography in plant anatomy and morphology (in portuguese). In: dos Santos , N. H., Santos, I. V. C., dos Santos Júnior, J. L. Falcão, J. G., Martins, M. L., Wu, R. T. A., Furlan, C. M. (Organizers): XIII Winter Course in Botany, 2024. ISBN: 978-65-88234-18-1
@@ -68,8 +68,8 @@ May 2026 - Current: Postdoctoral Fellow, Institute for Global Change Biology, U.
   
 # Open source Software
 
-[evolved](https://mjanuario.github.io/evolved) (R; author, creator, maintainer)
-[paleobuddy](https://github.com/brpetrucci/paleobuddy/tree/master) (R; author; maintainer)
+[evolved](https://mjanuario.github.io/evolved) (R; author, creator, maintainer)\
+[paleobuddy](https://github.com/brpetrucci/paleobuddy/tree/master) (R; author; maintainer)\
 
 # Invited speaker
 
@@ -100,22 +100,22 @@ Created and archived code & analytical pipelines still in use in the laboratory 
 Evolutionary Journal of the Linnean Society; Journal of Biogeography; Journal of Open Source Education; Methods in Ecology and Evolution; Proceedings of the Royal Society B Biological Sciences; Science Advances; Systematic Biology
 
 ### Organizer of Research synthesis working group on budding speciation
-Co-organized with Bruno do Rosario Petrucci (Iowa State University).
+_Co-organized with Bruno do Rosario Petrucci (Iowa State University)._\
 This group is supported by the Society for the Study of Evolution (SSE) and is designed to serve as a launchpad for novel ideas, new syntheses, and ongoing collaborations. The group involves researchers from USA, Brazil, Canada, Germany, and Australia.
 
 ### Conference mentor for early-career researchers
-2026 Mentored 10+ PhD students during the SSE Postdoc Fellowship Networking event at the 2026 evolution meeting.
-2026 Mentored PhD student Gustavo Martins as part of Evolution’s Bilingual Mentoring Program.
-2024 STRATA (Supporting Tomorrow’s Researchers and Today’s Advocates) mentor during the North American Paleontological Convention.
+2026 Mentored 10+ PhD students during the SSE Postdoc Fellowship Networking event at the 2026 evolution meeting.\
+2026 Mentored PhD student Gustavo Martins as part of Evolution’s Bilingual Mentoring Program.\
+2024 STRATA (Supporting Tomorrow’s Researchers and Today’s Advocates) mentor during the North American Paleontological Convention.\
 
 ## Departmental
 
 ### Student representative in department committees
-2025–2023 Peer-to-peer mentoring of 4 younger grad students ( “Big/Little Sib program”)
-2025–2026 Social Hour (“BioBev”) coordinator
-2024 Admissions committee
-2022–2023 Social & Retreat Committee
-2015-2016 Student Representative in the Departmental Faculty Meeting (University of Sao Paulo)
+2025–2023 Peer-to-peer mentoring of 4 younger grad students ( “Big/Little Sib program”)\
+2025–2026 Social Hour (“BioBev”) coordinator\
+2024 Admissions committee\
+2022–2023 Social & Retreat Committee\
+2015-2016 Student Representative in the Departmental Faculty Meeting (University of Sao Paulo)\
 
 ### Organizer of academic events for the Univ. of Michigan’s Dept. of Ecology & Evol. Biology
 2-working day visit from prof. Kjetil Lysne Voje, from the Natural History Museum of the University of Oslo (Norway). Visit included advanced group discussion, a public roundtable, a seminar to the department, and individual meetings with faculty, students, and other researchers from the university. Organization included scheduling, flights, lodging and meals, all done by Matheus.
@@ -126,36 +126,41 @@ Round table: Is macroevolution more than “microevolution writ large?” (~50 a
 
 ## United States
 
-### ID day at the Museum of Natural History of the University of Michigan (2023/2024/2025) / Science Communicator
+### ID day at the Museum of Natural History of the University of Michigan (2023/2024/2025) 
+_Science Communicator_\
 Single day activity, Ann Arbor (MI) - USA
 Engaged the public by identifying species, showcasing live animals, 3D models, museum specimens, and other biologic material. Participated as member of the division of Reptiles & Amphibians at the University of Michigan’s Museum of Zoology.
 
-### BIO 173 visit to division of Reptiles & Amphibians at the U. of Michigan’s Museum of Zoology (2024) / Museum Educator
+### BIO 173 visit to division of Reptiles & Amphibians at the U. of Michigan’s Museum of Zoology (2024) 
+_Museum Educator_\
 Single day activity, Ann Arbor (MI) - USA
 Toured tens of students from “Introduction to biology” (BIO 173) through the Reptiles & Amphibians division of the University of Michigan’s Museum of Zoology—promoting hands-on scientific observation and student engagement.
 
-### University of Michigan Biological Station’s 2024 BioBlitz / Associate organismal group expert
+### University of Michigan Biological Station’s 2024 BioBlitz 
+_Associate organismal group expert_\
 Single day activity, Pellston (MI) - USA
 Participated in an intensive biodiversity survey documenting species within the biological station, integrating fieldwork, education, and public outreach. Collaborated with students, researchers, and community members to promote biodiversity awareness and hands-on scientific engagement.
 
 ## Brazil
 
-### EcoEscola 2019 (Eco-School) / Lecturer, Pedagogical leader, and class developer
+### EcoEscola 2019 (Eco-School) 
+_Lecturer, Pedagogical leader, and class developer_\
 March 2018 - August 2019, Sao Paulo - Brazil
 I coordinated an Ecology course at the University of Sao Paulo, training graduate students in active learning strategies to teach Ecology to recent biology graduates. I also designed pedagogical materials and delivered three lectures: “Patterns and Processes in Ecology,” “Interaction Biology,” and “Evolutionary Ecology and Biogeography.”
 
-### Estacao Biologia (Biology camp) / Instructor and class developer
+### Estacao Biologia (Biology camp) 
+_Instructor and class developer_\
 March 2012 - November 2013, Sao Paulo - Brazil
 I contributed to a non-formal education project teaching Biology in underprivileged schools using active learning. I developed lasting activities, including one on micro and macroevolution. I also participated in "Bio na Rua" (Biology on the Streets), an annual community outreach event in Sao Paulo's underserved areas.
 
 # Media coverage
-[24.IV.2026 - The U-M Museum of Zoology has named Natasha Stepanova (PhD ’26) and Matheus Januario (PhD ’26) as the recipients of the 2025 Donald W. Tinkle Scholarship Award](https://lsa.umich.edu/ummz/news-events/all-news/search-news/the-2026-donald-w--tinkle-award-winners.html)
-[16.IX.2025 - Till Selection Do Us Part? Testing Sexual Selection’s Role in Speciation](https://www.amnat.org/an/newpapers/April-2025-Januario.html)
-[16.X.2023 - Hiss-toric first: U-M museum’s 70,000 snake specimens form world’s largest research collection](https://news.umich.edu/hiss-toric-first-u-m-museums-70000-snake-specimens-form-worlds-largest-research-collection/)
-[13.XI.2023 - UMich now has the largest collection of snake specimens in the world](https://www.michigandaily.com/research/umich-now-has-the-largest-collection-of-snake-specimens-in-the-world/)
+[24.IV.2026 - The U-M Museum of Zoology has named Natasha Stepanova and Matheus Januario as the recipients of the 2025 Donald W. Tinkle Scholarship Award](https://lsa.umich.edu/ummz/news-events/all-news/search-news/the-2026-donald-w--tinkle-award-winners.html)\
+[16.IX.2025 - Till Selection Do Us Part? Testing Sexual Selection’s Role in Speciation](https://www.amnat.org/an/newpapers/April-2025-Januario.html)\
+[16.X.2023 - Hiss-toric first: U-M museum’s 70,000 snake specimens form world’s largest research collection](https://news.umich.edu/hiss-toric-first-u-m-museums-70000-snake-specimens-form-worlds-largest-research-collection/)\
+[13.XI.2023 - UMich now has the largest collection of snake specimens in the world](https://www.michigandaily.com/research/umich-now-has-the-largest-collection-of-snake-specimens-in-the-world/)\
 
 # Languages
-Brazilian Portuguese: native
+Brazilian Portuguese: native\
 English, R, Python: fluent
 
 
