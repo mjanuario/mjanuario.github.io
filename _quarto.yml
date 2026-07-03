@@ -9,7 +9,7 @@ website:
   navbar:
     logo: images/profile.jpg
     left:
-      - text: Home
+      - text: About
         href: index.qmd
       - text: Research
         href: research.qmd

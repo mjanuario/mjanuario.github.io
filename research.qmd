@@ -28,7 +28,7 @@ How do ecological and evolutionary processes interact to shape a population’s 
 
 My work related to this topic was recently published in [Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70021) and in [The American Naturalist](https://www.journals.uchicago.edu/doi/full/10.1086/734457).
 
-![Caption: Results from my PhD chapter comparing the metapopulation dynamics of bottom-associated fishes across the North American Pacific and Atlantic continental shelves. Metapopulation dynamics of whole fish assemblages differ between regions. Figure 2 in **Januario et al. (2025, Ecology Letters**).](images/fishMetapop.jpg){.inset-center}
+![Caption: Results from my PhD chapter comparing the metapopulation dynamics of bottom-associated fishes across the North American Pacific and Atlantic continental shelves. Metapopulation dynamics of whole fish assemblages differ between regions. Figure 2 in **Januario et al. (2025, Ecology Letters)**.](images/fishMetapop.jpg){.inset-center}
 
 # New methods and software in Ecology and Evolution
 
