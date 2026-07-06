@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-For the past [12 years](files/cv.pdf), I have taught ecology and evolution courses in Brazil and the United States as a teaching assistant in multiple different courses related to Ecology and Evolutionary biology. I also presented a few workshops in different places that generated a fair amount of education material. Here I am slowly compiling some of the resources I've produced:
+For the past [10 years](files/cv.pdf), I have taught ecology and evolution courses in Brazil and the United States as a teaching assistant in multiple different courses related to Ecology and Evolutionary biology. I also presented a few workshops in different places that generated a fair amount of education material. Here I am slowly compiling some of the resources I've produced:
 
 # Software and tutorials
 
@@ -57,7 +57,7 @@ Mentors are all Professors unless otherwise noted.
 
 **2014** _Evolution_ (1 semester, mentored by Diogo Meyer & Gabriel Marroig)
 
-# Past teaching experience as worshop provider
+# Past teaching experience as workshop provider
 
 **2024**  Comparative Biology and Functional Morphology in the 21st Century _Gans Foundation Student Workshop for the Society for the Study of Amphibians and Reptiles Meeting_ (Ann Arbor MI USA, 3-day workshop)
 
