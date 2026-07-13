@@ -97,7 +97,8 @@ Created and archived code & analytical pipelines still in use in the laboratory 
 ## International
 
 ### Peer Review
-Evolutionary Journal of the Linnean Society; Journal of Animal Ecology ; Journal of Biogeography; Journal of Open Source Education; Methods in Ecology and Evolution; Proceedings of the Royal Society B Biological Sciences; Science Advances; Systematic Biology
+Biosemiotics ; Evolutionary Journal of the Linnean Society; Journal of Animal Ecology ; Journal of Biogeography; Journal of Open Source Education; Methods in Ecology and Evolution; 
+New Phytologist ; Proceedings of the Royal Society B Biological Sciences; Science Advances; Systematic Biology
 
 ### Organizer of Research synthesis working group on budding speciation
 _Co-organized with Bruno do Rosario Petrucci (Iowa State University)._\
