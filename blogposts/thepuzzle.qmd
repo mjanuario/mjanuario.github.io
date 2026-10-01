@@ -1,0 +1,52 @@
+---
+title: "Chapter 1 The Biodiversity Puzzle and Where Its Pieces May Be"
+---
+
+This post is adapted from the first chapter of Matheus Januario’s PhD dissertation, with revisions for a broader audience and a blog format.
+
+
+_"The diversity of nature […] is so familiar from everyday experience that it is easy to accept it without much critical thought. We are so used to a multitude of species, and higher taxa [(large organismal groups)], that it is difficult to appreciate the fundamental theoretical problems this diversity presents."_
+
+—	David Wilkinson 2023 (pp. 31)
+
+
+# The biodiversity puzzle
+
+Across vast spans of time, life’s imperfect replication has generated an extraordinary diversity of forms. Each evolutionary innovation expanded the range of possible ecological interactions, producing increasingly complex biological systems. Through this cumulative process, life has repeatedly confronted and reorganized the material and energetic constraints of organic matter. Over geological time, biological complexity increased to the point that life, as a collective phenomenon, persisted through episodes of global disruption now recognized as "mass extinctions". These events underscore both the contingency of individual lineages and the resilience of life within the stable bounds of Earth’s habitable conditions. To study the processes that generate and maintain this diversity is to engage with foundational questions: the tension between the continuous and the discrete, what exactly confers identity, the relentlessness of time, and the limits of emergence. Gathering the facts that explain life’s variety is what I am referring to as "solving the biodiversity puzzle."
+
+In this post, I introduce the scientific context of my research on finding new pieces of this puzzle and connect them to broader theories of biodiversity. I have taken some writing liberties so the text is comprehensible to a larger pool of people. I will also minimize citations for flow whenever I am not saying anything too specific, i.e. when a very similar affirmation can be found in textbooks (Stanley 1979; Foote & Miller 2007; Rosenzweig 2010; Bromham & Cardillo 2019; Mittelbach & McGill 2019). 
+
+## 1.2 Biodiversity: size, patterns, turnover, and theory
+
+_"Describing large numbers of new species belonging to the same genus makes the invention of suitable species epithets [(i.e., scientific species names)] increasingly difficult. We propose a solution by naming ten species based on family names found in the phonebook of Papua New Guinea."_
+
+—	Riedel et al 2013 ("One hundred and one new species of Trigonopterus weevils from New Guinea")
+
+Biodiversity can be thought of as variation in modes of life. It is not completely misleading to refer to organismal characteristics (i.e., traits) when one brings this word up, but most often it refers to species. There are many species concepts and definitions, but I will here operationalize them as the species units as recognized by taxonomic practice (but see chapter five). Even under this (arguably gross) operationalization, biodiversity has a staggering scale: If a person decided to learn about every taxonomically recognized bird species and devoted a single day of study to each, it would take more than a third of a human lifespan to complete the task (~27.3 years of work, weekends included). But birds are about only one sixth of vertebrates, and vertebrates in turn make up just 5% of known species—probably less than 1% if you count the species we hope to find someday. One should remember this whenever in my dissertation I make a claim about biodiversity when in fact, I am evaluating mostly subgroups of vertebrates. Thus, although clearly limited, my approach can be understood as a pragmatic and arguably lesser evil among the many operational choices required to study biodiversity within a human lifetime.
+
+When we study the collective properties of species, a clear pattern emerges: as we examine larger portions of the tree of life (that is, as we "zoom out"), the tree tends to become more asymmetrical. This pattern has been reported across many major, well-studied groups of organisms (Fig. 1). To my knowledge, there is no general theory that predicts why this pattern should be so consistent across such disparate groups, or why it should persist across the deep timescales considered here. This raises the possibility that biodiversity may not be fully understood as a straightforward consequence of population genetics or community ecology alone. In this light, it may be useful to treat the study of biodiversity—including subareas such as macroevolution—as addressing questions that are not exhausted by lower-level processes (i.e., macroevolution may involve more than "repeated rounds of microevolution," contrasting, for instance, with Futuyma 2015). At the same time, research on biodiversity necessarily builds on tools, concepts, and empirical findings from other areas of biology. Taken together, however, these efforts can be seen as forming a relatively distinct line of inquiry focused on explaining large-scale patterns in the history of life—the biodiversity puzzle.
+
+"Change is the only constant in life", as the saying goes. But some changes seen to be more consequential than others when it comes to the structure of biodiversity. For instance, it took about a hundred million years for corals to be the dominant reef builders (this predates Michigan’s "Petoskey stone"), and a few tens of millions of years more for vertebrates to occupy the highest levels of the world’s food chains. Flowering plants, currently almost omnipresent, were absent for most of life’s history, and for much of that time, the tropics—which today harbors most of Earth’s terrestrial habitats—accounted for only a tiny fraction of the Earth’s land area. A biodiversity theory must thus handle three very fuzzy certainties about the biota: (i) biodiversity is always changing through time (i.e., it is dynamical), (ii) there are "common" and "exceptional" moments in life’s history, and (iii) past worlds may be very different to how biodiversity is today. For many, managing all of that has been challenging — and for some, it remains so.
+
+![Caption: Molecular phylogenies of virtually all well-known organisms on Earth become more imbalanced (asymmetric) as we  include broader and broader organismal groups. The causes of this extremely consistent pattern remains unknown to scientists. Figure from my dissertation introduction.](~/mjanuario.github.io/images/vertPhylos.png){.inset-center}
+
+We quantify biodiversity change through the rates at which two events happen: species addition ( = speciation) and species removal (= extinction)—usually labelled with the Greek letters $\lambda$ and $\mu$, respectively; their units being events per species per time. Rates can be interpreted as "speeds" and thus, even though biodiversity is always changing, we can still understand it thought the lens of dynamical models of speciation and extinction that tell how differential speeds of events made biodiversity to look like how it is today. Specifically, the amount of biodiversity (as measured by species numbers) in any given time should increase when $\lambda$ > $\mu$ (more speciation events than extinctions per unit time), decreases when $\lambda$ < $\mu$, and be at dynamical equilibrium whenever $\lambda$ = $\mu$ (i.e., the species themselves change, but the number of species stays relatively constant). Considering this, turnover is a term that is loosely used to refer to the mathematical interaction between these two rates ($\lambda$ and $\mu$): some authors would divide, others would sum these rates, among others (e.g., literature review within the Supplementary Material of Vasconcelos et al 2022). Often I keep the looser "interaction" meaning of turnover to express this dissertation examines the temporally dynamic interplay between speciation and extinction. It is remarkable how this pragmatic decision of studying biodiversity through its turnover provides a simple operationalization on the three fuzzy aspects I mentioned in the previous paragraph: as long as one can calculate a time elapsed and can tell the species apart, it is possible to estimate (i) the speed and direction (increase or decrease) at which biodiversity changes, (ii) when and where remarkable moments in biodiversity dynamics occurred (spikes or changes in rates), and (iii) how similar (species-wise, dynamic-wise) past worlds were from today.
+
+[Text continues in Matheus Januario's dissertation]
+
+# References:
+
+Bromham, L., & Cardillo, M. (2019). Origins of Biodiversity: An Introduction to Macroevolution and Macroecology. Oxford University Press.
+
+Foote, M., & Miller, A. (2007). Principles of Paleontology (3rd ed.). W. H. Freeman.
+
+Futuyma, D. J. (2015). Can Modern Evolutionary Theory Explain Macroevolution? In E. Serrelli & N. Gontier (Eds.), Macroevolution: Explanation, Interpretation and Evidence (pp. 29–85). Springer International Publishing. https://doi.org/10.1007/978-3-319-15045-1_2
+
+Mittelbach, G. G., & McGill, B. J. (2019). Community Ecology (Second Edition, Second Edition). Oxford University Press.
+
+Stanley, S. (1979). Macroevolution: Pattern and Process. W.H. Freeman & Co. Ltd.
+
+Vasconcelos, T., O’Meara, B. C., & Beaulieu, J. M. (2022). A flexible method for estimating tip diversification rates across a range of speciation and extinction scenarios. Evolution, 76(7), 1420–1433. https://doi.org/10.1111/evo.14517
+
+Wilkinson, D. M. (2023). Trade-offs and biodiversity. In The fundamental processes in ecology-Life and the Earth system (2nd ed., pp. 31–43). Oxford University Pres.
+

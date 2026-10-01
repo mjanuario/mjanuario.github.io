@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Blog – Matheus Januario</title>
+<title>Chapter 1 The Biodiversity Puzzle and Where Its Pieces May Be – Matheus Januario</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/profile.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/profile.jpg" rel="icon" type="image/jpeg">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,8 +68,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -79,10 +108,10 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/profile.jpg" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/profile.jpg" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Matheus Januario</span>
     </a>
   </div>
@@ -93,31 +122,31 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -131,15 +160,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-biodiversity-puzzle" id="toc-the-biodiversity-puzzle" class="nav-link active" data-scroll-target="#the-biodiversity-puzzle">The biodiversity puzzle</a>
+  <ul class="collapse">
+  <li><a href="#biodiversity-size-patterns-turnover-and-theory" id="toc-biodiversity-size-patterns-turnover-and-theory" class="nav-link" data-scroll-target="#biodiversity-size-patterns-turnover-and-theory">1.2 Biodiversity: size, patterns, turnover, and theory</a></li>
+  </ul></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References:</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
+<h1 class="title">Chapter 1 The Biodiversity Puzzle and Where Its Pieces May Be</h1>
 </div>
 
 
@@ -156,9 +195,42 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Content coming soon — this is just a placeholder.</em></p>
+<p>This post is adapted from the first chapter of Matheus Januario’s PhD dissertation, with revisions for a broader audience and a blog format.</p>
+<p><em>“The diversity of nature […] is so familiar from everyday experience that it is easy to accept it without much critical thought. We are so used to a multitude of species, and higher taxa [(large organismal groups)], that it is difficult to appreciate the fundamental theoretical problems this diversity presents.”</em></p>
+<p>— David Wilkinson 2023 (pp.&nbsp;31)</p>
+<section id="the-biodiversity-puzzle" class="level1">
+<h1>The biodiversity puzzle</h1>
+<p>Across vast spans of time, life’s imperfect replication has generated an extraordinary diversity of forms. Each evolutionary innovation expanded the range of possible ecological interactions, producing increasingly complex biological systems. Through this cumulative process, life has repeatedly confronted and reorganized the material and energetic constraints of organic matter. Over geological time, biological complexity increased to the point that life, as a collective phenomenon, persisted through episodes of global disruption now recognized as “mass extinctions”. These events underscore both the contingency of individual lineages and the resilience of life within the stable bounds of Earth’s habitable conditions. To study the processes that generate and maintain this diversity is to engage with foundational questions: the tension between the continuous and the discrete, what exactly confers identity, the relentlessness of time, and the limits of emergence. Gathering the facts that explain life’s variety is what I am referring to as “solving the biodiversity puzzle.”</p>
+<p>In this post, I introduce the scientific context of my research on finding new pieces of this puzzle and connect them to broader theories of biodiversity. I have taken some writing liberties so the text is comprehensible to a larger pool of people. I will also minimize citations for flow whenever I am not saying anything too specific, i.e.&nbsp;when a very similar affirmation can be found in textbooks (Stanley 1979; Foote &amp; Miller 2007; Rosenzweig 2010; Bromham &amp; Cardillo 2019; Mittelbach &amp; McGill 2019).</p>
+<section id="biodiversity-size-patterns-turnover-and-theory" class="level2">
+<h2 class="anchored" data-anchor-id="biodiversity-size-patterns-turnover-and-theory">1.2 Biodiversity: size, patterns, turnover, and theory</h2>
+<p><em>“Describing large numbers of new species belonging to the same genus makes the invention of suitable species epithets [(i.e., scientific species names)] increasingly difficult. We propose a solution by naming ten species based on family names found in the phonebook of Papua New Guinea.”</em></p>
+<p>— Riedel et al 2013 (“One hundred and one new species of Trigonopterus weevils from New Guinea”)</p>
+<p>Biodiversity can be thought of as variation in modes of life. It is not completely misleading to refer to organismal characteristics (i.e., traits) when one brings this word up, but most often it refers to species. There are many species concepts and definitions, but I will here operationalize them as the species units as recognized by taxonomic practice (but see chapter five). Even under this (arguably gross) operationalization, biodiversity has a staggering scale: If a person decided to learn about every taxonomically recognized bird species and devoted a single day of study to each, it would take more than a third of a human lifespan to complete the task (~27.3 years of work, weekends included). But birds are about only one sixth of vertebrates, and vertebrates in turn make up just 5% of known species—probably less than 1% if you count the species we hope to find someday. One should remember this whenever in my dissertation I make a claim about biodiversity when in fact, I am evaluating mostly subgroups of vertebrates. Thus, although clearly limited, my approach can be understood as a pragmatic and arguably lesser evil among the many operational choices required to study biodiversity within a human lifetime.</p>
+<p>When we study the collective properties of species, a clear pattern emerges: as we examine larger portions of the tree of life (that is, as we “zoom out”), the tree tends to become more asymmetrical. This pattern has been reported across many major, well-studied groups of organisms (Fig. 1). To my knowledge, there is no general theory that predicts why this pattern should be so consistent across such disparate groups, or why it should persist across the deep timescales considered here. This raises the possibility that biodiversity may not be fully understood as a straightforward consequence of population genetics or community ecology alone. In this light, it may be useful to treat the study of biodiversity—including subareas such as macroevolution—as addressing questions that are not exhausted by lower-level processes (i.e., macroevolution may involve more than “repeated rounds of microevolution,” contrasting, for instance, with Futuyma 2015). At the same time, research on biodiversity necessarily builds on tools, concepts, and empirical findings from other areas of biology. Taken together, however, these efforts can be seen as forming a relatively distinct line of inquiry focused on explaining large-scale patterns in the history of life—the biodiversity puzzle.</p>
+<p>“Change is the only constant in life”, as the saying goes. But some changes seen to be more consequential than others when it comes to the structure of biodiversity. For instance, it took about a hundred million years for corals to be the dominant reef builders (this predates Michigan’s “Petoskey stone”), and a few tens of millions of years more for vertebrates to occupy the highest levels of the world’s food chains. Flowering plants, currently almost omnipresent, were absent for most of life’s history, and for much of that time, the tropics—which today harbors most of Earth’s terrestrial habitats—accounted for only a tiny fraction of the Earth’s land area. A biodiversity theory must thus handle three very fuzzy certainties about the biota: (i) biodiversity is always changing through time (i.e., it is dynamical), (ii) there are “common” and “exceptional” moments in life’s history, and (iii) past worlds may be very different to how biodiversity is today. For many, managing all of that has been challenging — and for some, it remains so.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="~/mjanuario.github.io/images/vertPhylos.png" class="inset-center img-fluid figure-img"></p>
+<figcaption>Caption: Molecular phylogenies of virtually all well-known organisms on Earth become more imbalanced (asymmetric) as we include broader and broader organismal groups. The causes of this extremely consistent pattern remains unknown to scientists. Figure from my dissertation introduction.</figcaption>
+</figure>
+</div>
+<p>We quantify biodiversity change through the rates at which two events happen: species addition ( = speciation) and species removal (= extinction)—usually labelled with the Greek letters <span class="math inline">\(\lambda\)</span> and <span class="math inline">\(\mu\)</span>, respectively; their units being events per species per time. Rates can be interpreted as “speeds” and thus, even though biodiversity is always changing, we can still understand it thought the lens of dynamical models of speciation and extinction that tell how differential speeds of events made biodiversity to look like how it is today. Specifically, the amount of biodiversity (as measured by species numbers) in any given time should increase when <span class="math inline">\(\lambda\)</span> &gt; <span class="math inline">\(\mu\)</span> (more speciation events than extinctions per unit time), decreases when <span class="math inline">\(\lambda\)</span> &lt; <span class="math inline">\(\mu\)</span>, and be at dynamical equilibrium whenever <span class="math inline">\(\lambda\)</span> = <span class="math inline">\(\mu\)</span> (i.e., the species themselves change, but the number of species stays relatively constant). Considering this, turnover is a term that is loosely used to refer to the mathematical interaction between these two rates (<span class="math inline">\(\lambda\)</span> and <span class="math inline">\(\mu\)</span>): some authors would divide, others would sum these rates, among others (e.g., literature review within the Supplementary Material of Vasconcelos et al 2022). Often I keep the looser “interaction” meaning of turnover to express this dissertation examines the temporally dynamic interplay between speciation and extinction. It is remarkable how this pragmatic decision of studying biodiversity through its turnover provides a simple operationalization on the three fuzzy aspects I mentioned in the previous paragraph: as long as one can calculate a time elapsed and can tell the species apart, it is possible to estimate (i) the speed and direction (increase or decrease) at which biodiversity changes, (ii) when and where remarkable moments in biodiversity dynamics occurred (spikes or changes in rates), and (iii) how similar (species-wise, dynamic-wise) past worlds were from today.</p>
+<p>[Text continues in Matheus Januario’s dissertation]</p>
+</section>
+</section>
+<section id="references" class="level1">
+<h1>References:</h1>
+<p>Bromham, L., &amp; Cardillo, M. (2019). Origins of Biodiversity: An Introduction to Macroevolution and Macroecology. Oxford University Press.</p>
+<p>Foote, M., &amp; Miller, A. (2007). Principles of Paleontology (3rd ed.). W. H. Freeman.</p>
+<p>Futuyma, D. J. (2015). Can Modern Evolutionary Theory Explain Macroevolution? In E. Serrelli &amp; N. Gontier (Eds.), Macroevolution: Explanation, Interpretation and Evidence (pp.&nbsp;29–85). Springer International Publishing. https://doi.org/10.1007/978-3-319-15045-1_2</p>
+<p>Mittelbach, G. G., &amp; McGill, B. J. (2019). Community Ecology (Second Edition, Second Edition). Oxford University Press.</p>
+<p>Stanley, S. (1979). Macroevolution: Pattern and Process. W.H. Freeman &amp; Co.&nbsp;Ltd.</p>
+<p>Vasconcelos, T., O’Meara, B. C., &amp; Beaulieu, J. M. (2022). A flexible method for estimating tip diversification rates across a range of speciation and extinction scenarios. Evolution, 76(7), 1420–1433. https://doi.org/10.1111/evo.14517</p>
+<p>Wilkinson, D. M. (2023). Trade-offs and biodiversity. In The fundamental processes in ecology-Life and the Earth system (2nd ed., pp.&nbsp;31–43). Oxford University Pres.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

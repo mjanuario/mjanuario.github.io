@@ -2,4 +2,6 @@
 title: "Blog"
 ---
 
-*Content coming soon — this is just a placeholder.*
+["The Biodiversity Puzzle"](http://mjanuario.github.io/blogposts/thepuzzle.html)
+
+
