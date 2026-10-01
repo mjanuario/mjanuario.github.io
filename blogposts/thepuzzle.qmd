@@ -10,11 +10,13 @@ _"The diversity of nature […] is so familiar from everyday experience that it 
 
 —	David Wilkinson 2023 (pp. 31)
 
+### The puzzle
+
 Across vast spans of time, life’s imperfect replication has generated an extraordinary diversity of forms. Each evolutionary innovation expanded the range of possible ecological interactions, producing increasingly complex biological systems. Through this cumulative process, life has repeatedly confronted and reorganized the material and energetic constraints of organic matter. Over geological time, biological complexity increased to the point that life, as a collective phenomenon, persisted through episodes of global disruption now recognized as "mass extinctions". These events underscore both the contingency of individual lineages and the resilience of life within the stable bounds of Earth’s habitable conditions. To study the processes that generate and maintain this diversity is to engage with foundational questions: the tension between the continuous and the discrete, what exactly confers identity, the relentlessness of time, and the limits of emergence. Gathering the facts that explain life’s variety is what I am referring to as "solving the biodiversity puzzle."
 
 In this post, I introduce the scientific context of my research on finding new pieces of this puzzle and connect them to broader theories of biodiversity. I have taken some writing liberties so the text is comprehensible to a larger pool of people. I will also minimize citations for flow whenever I am not saying anything too specific, i.e. when a very similar affirmation can be found in textbooks (Stanley 1979; Foote & Miller 2007; Rosenzweig 2010; Bromham & Cardillo 2019; Mittelbach & McGill 2019). 
 
-#### Biodiversity: size, patterns, turnover, and theory
+### Biodiversity: size, patterns, turnover, and theory
 
 _"Describing large numbers of new species belonging to the same genus makes the invention of suitable species epithets [(i.e., scientific species names)] increasingly difficult. We propose a solution by naming ten species based on family names found in the phonebook of Papua New Guinea."_
 
