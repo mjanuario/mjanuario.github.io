@@ -3,3 +3,4 @@ title: "Blog"
 ---
 
 ["The Biodiversity Puzzle"](http://mjanuario.github.io/blogposts/thepuzzle.html)
+
