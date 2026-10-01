@@ -1,6 +1,8 @@
 ---
-title: "Chapter 1 The Biodiversity Puzzle and Where Its Pieces May Be"
+title: "The Biodiversity Puzzle"
 ---
+
+By Matheus Januario
 
 This post is adapted from the first chapter of Matheus Januario’s PhD dissertation, with revisions for a broader audience and a blog format.
 
@@ -8,9 +10,6 @@ This post is adapted from the first chapter of Matheus Januario’s PhD disserta
 _"The diversity of nature […] is so familiar from everyday experience that it is easy to accept it without much critical thought. We are so used to a multitude of species, and higher taxa [(large organismal groups)], that it is difficult to appreciate the fundamental theoretical problems this diversity presents."_
 
 —	David Wilkinson 2023 (pp. 31)
-
-
-# The biodiversity puzzle
 
 Across vast spans of time, life’s imperfect replication has generated an extraordinary diversity of forms. Each evolutionary innovation expanded the range of possible ecological interactions, producing increasingly complex biological systems. Through this cumulative process, life has repeatedly confronted and reorganized the material and energetic constraints of organic matter. Over geological time, biological complexity increased to the point that life, as a collective phenomenon, persisted through episodes of global disruption now recognized as "mass extinctions". These events underscore both the contingency of individual lineages and the resilience of life within the stable bounds of Earth’s habitable conditions. To study the processes that generate and maintain this diversity is to engage with foundational questions: the tension between the continuous and the discrete, what exactly confers identity, the relentlessness of time, and the limits of emergence. Gathering the facts that explain life’s variety is what I am referring to as "solving the biodiversity puzzle."
 
