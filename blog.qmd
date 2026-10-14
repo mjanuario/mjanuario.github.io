@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Fine whining (Matheus' blog)"
 ---
 
 ["The Biodiversity Puzzle"](http://mjanuario.github.io/blogposts/thepuzzle.html)
