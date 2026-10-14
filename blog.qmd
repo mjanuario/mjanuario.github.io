@@ -3,3 +3,6 @@ title: "Blog"
 ---
 
 ["The Biodiversity Puzzle"](http://mjanuario.github.io/blogposts/thepuzzle.html)
+
+["Everything, everywhere, all at once"](http://mjanuario.github.io/blogposts/eeaao.html)
+

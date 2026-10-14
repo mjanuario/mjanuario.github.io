@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "“The Biodiversity Puzzle”"
+    "text": "“The Biodiversity Puzzle”\n“Everything, everywhere, all at once”"
   },
   {
     "objectID": "publications.html",
@@ -138,5 +138,12 @@
     "title": "CV",
     "section": "Brazil",
     "text": "Brazil\n\nEcoEscola 2019 (Eco-School)\nLecturer, Pedagogical leader, and class developer\nMarch 2018 - August 2019, Sao Paulo - Brazil I coordinated an Ecology course at the University of Sao Paulo, training graduate students in active learning strategies to teach Ecology to recent biology graduates. I also designed pedagogical materials and delivered three lectures: “Patterns and Processes in Ecology,” “Interaction Biology,” and “Evolutionary Ecology and Biogeography.”\n\n\nEstacao Biologia (Biology camp)\nInstructor and class developer\nMarch 2012 - November 2013, Sao Paulo - Brazil I contributed to a non-formal education project teaching Biology in underprivileged schools using active learning. I developed lasting activities, including one on micro and macroevolution. I also participated in “Bio na Rua” (Biology on the Streets), an annual community outreach event in Sao Paulo’s underserved areas."
+  },
+  {
+    "objectID": "blogposts/eeaao.html",
+    "href": "blogposts/eeaao.html",
+    "title": "Everything, everywhere, all at once",
+    "section": "",
+    "text": "By Matheus Januario\nI started my older blogpost by saying:\n“Across vast spans of time, life’s imperfect replication has generated an extraordinary diversity of forms. Each evolutionary innovation expanded the range of possible ecological interactions, producing increasingly complex biological systems. Through this cumulative process, life has repeatedly confronted and reorganized the material and energetic constraints of organic matter.”\nWhat did I mena with this? A ton of stuff. But I found a cool way to represent it. The meanders of the internet are funny, and walking on them I stubbled on this great paper called “All objects and some questions” by Charles H. Lineweaver and Vihan M. Patel, which presents, in their words, “an overview of the thermal history of the Universe”. Quite a task! You should read the paper, but basically they put literally everything in our universe in a single plane, mapped as a function of size (x-axis) and mass (y-axis) in a log-log scale, where ines represent power laws.\nThe author’s point is that everything that is familiar to our experience fits into a triangle inside this space, as physics put hard constraints on what can exist in the first place (the [ink zone in the figure above).])\n\n\n\nOur universe as a function of size and mass Figure 2 from Lineweaver and Patel (2023).\n\n\nNow what I want to call you attention to is: look at how much area life spans! Being conservative here, imagine you are drawing an elipsis involving all the organic beings in this figure (from whale to bacteria). It spans a lot! More than many galaxies span! Ok, we life do not occupy a ton of size as a matter of radius becuase we still need our cells to communicate, but oh boy we cover a lot of mass! Think about what this implies: life has to construc all means\n\nReferences:\nLineweaver, C. H., & Patel, V. M. (2023). All objects and some questions. American Journal of Physics, 91(10), 819-825."
   }
 ]
