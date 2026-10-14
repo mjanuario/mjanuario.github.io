@@ -12,7 +12,7 @@ What did I mean by this? A whole lot of stuff! But I found a pretty cool way to 
 
 You should definitely give it a read, but here's the basic idea: they place virtually everything in the Universe on a single diagram, plotting size on the x-axis and mass on the y-axis, both on logarithmic scales. The result is a map of the physical world, where lines represent power laws and reveal relationships between objects across an astonishing range of scales.
 
-Their central point is that the things familiar to our everyday experience occupy a relatively small triangular region of this space. The reason? Physics imposes hard constraints on what can exist in the first place, limiting which combinations of size and mass are physically possible (the "pink zone" in the figure above).
+Their central point is that the things familiar to our everyday experience occupy a relatively small triangular region of this space. The reason? Physics imposes hard constraints on what can exist in the first place, limiting which combinations of size and mass are physically possible.
 
 ![Our universe as a function of size and mass, Figure 2 from Lineweaver and Patel (2023). You need to read the paper to understand the annotations and colors.](https://raw.githubusercontent.com/mjanuario/mjanuario.github.io/main/images/LP2023FIG2.jpeg)
 
